@@ -1,0 +1,97 @@
+[en-us]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "一个轻量级的 Bitwarden 兼容密码管理器服务端,可安全自托管密码与密钥。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "一個輕量級的 Bitwarden 兼容密碼管理器伺服器,可安全自託管密碼與密鑰。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Vaultwarden"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight Bitwarden-compatible password manager server for self-hosting."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."

@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  tos7-app-04-vaultwarden:
+    image: vaultwarden/server:1.32.7
+    container_name: tos7-app-04-vaultwarden
+    restart: unless-stopped
+    ports:
+      - "18084:80"
+    user: "1000:1000"
+    volumes:
+      - /Volume*/DockerAppData/tos7-app-04-vaultwarden/data:/data
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:80/alive"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+x-app-meta:
+  web:
+    port: 18084
+    protocol: http
